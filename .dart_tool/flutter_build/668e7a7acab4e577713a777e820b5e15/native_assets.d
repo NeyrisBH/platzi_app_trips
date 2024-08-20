@@ -1,1 +1,0 @@
- C:\\Users\\usuario\\Documents\\GitHub\\platzi_app_trips\\.dart_tool\\flutter_build\\668e7a7acab4e577713a777e820b5e15\\native_assets.yaml: 
